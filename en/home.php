@@ -4,12 +4,12 @@
       <title> Blue Ink Co.Ltd bangkok </title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      
+
 	  <?php include('head.php'); ?>
-	  
+
 	</head>
 	<body>
-      
+
 	  <?php include('header.php'); ?>
 
         <div id="demo" class="carousel slide" data-ride="carousel">
@@ -34,8 +34,8 @@
               <a href="<?= base_url; ?>en/pdf/Cat21-2-Blue-Ink-Section-4-to-9-EN-20191018.pdf" target="_blank" class="btn-fst">View Product</a>
                <a href="<?= base_url; ?>en/email-us.html" class="btn-scd pulse">Send Query  &nbsp; <i class="fa fa-phone"></i></a>
             </div>
-          </div> 
-		  
+          </div>
+
           <div class="carousel-item">
             <img src="<?= base_url; ?>img/slide-2b.jpg" alt=""></a>
             <div class="carousel-content">
@@ -45,7 +45,7 @@
                <a href="<?= base_url; ?>en/email-us.html" class="btn-scd pulse">Send Query  &nbsp; <i class="fa fa-phone"></i></a>
             </div>
           </div>
-		  
+
           <div class="carousel-item">
             <img src="<?= base_url; ?>img/slide-3b.jpg" alt="">
             <div class="carousel-content">
@@ -81,14 +81,23 @@
 
 <div class="container-fluid py-5">
   <div class="container">
-    <div class="row ">
-      <div class="col-md-7">
+    <div class="row">
+      <div id="long-lasting" class="col-md-7  js-e3article">
         <h1 class="pb-3">Long lasting experience</h1>
         <!--<p class="mb-5">Since 1964, We provide best solutions for our valuable customers.</p>-->
-        <p class="">Established in Thailand since 2008, Blue Ink is specialized in flexible heaters. We are part of the Ultimheat Alliance, manufacturing controls and heaters. Our original products, rod thermostats, were produced (and still produced) in France since 1950-1955.Products presented are patented, designed, developed, and produced in the Ultimheat Alliance factories. <b>So you are in contact with real producers,</b> and our engineering department will be pleased to answer directly and quickly to your specific requirements.</p> 
+        <p class="">
+					Established in Thailand since 2008, Blue Ink is specialized in flexible heaters.
+					We are part of the Ultimheat Alliance, manufacturing controls and heaters.
+					Our original products, rod thermostats, were produced (and still produced)
+					in France since 1950-1955.Products presented are patented, designed, developed,
+					and produced in the Ultimheat Alliance factories.
+					<b>So you are in contact with real producers,</b>
+					and our engineering department will be pleased to answer directly
+					and quickly to your specific requirements.
+				</p>
       </div>
-        <div class="col-md-5">
-		  <div id="upcoming" class="events-rcnt   js-e3article">
+      <div class="col-md-5">
+		  <div id="upcoming" class="events-rcnt js-e3article">
             <h2 class="text-center mb-3">Upcoming events</h2>
             <div class="row">
               <div class="col-md-12 mb-3">
@@ -100,11 +109,11 @@
                 <p class="pt-1">Aquatherm 2020 11-14 February - Moscow Russia</p>
               </div>
             </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
+</div>
+</div>
 
   <div class="sec container-fluid">
     <div class="row align-items-cnter">
@@ -112,9 +121,9 @@
       </div>
       <div class="col-md-6 py-5 dark-sec">
         <div class="row">
-          <div class="col-md-9">
+          <div id="pro-solutions" class="col-md-9 js-e3article">
           <h2 class="pb-3">Professional solutions for professional seeking quality and efficiency</h2>
-          
+
           <p>
             A vertically integrated manufacturing, a powerful and innovative research and development division, an unparalleled test laboratory.<br>
 			Our relationships with our customers are sustainable and mutually beneficial.<br>
@@ -122,20 +131,20 @@
           </p>
            <img src="<?= base_url; ?>img/r-logos.png" width="200px">
 
-         
+
         </div>
         </div>
       </div>
     </div>
   </div>
-  
+
   <div class="container-fluid py-5">
     <div class="container">
       <div class="text-center mb-5">
       <h2>Blue Ink Products</h2>
-      
+
     </div>
-      
+
       <div class="row">
         <div class="col-md-5">
           <img src="<?= base_url; ?>img/p-1.jpg" class="img-thumbnail mt-5">
@@ -146,7 +155,7 @@
         <div class="col-md-2 text-center">
           <div class="mb-3">
       <h6 class="cataog"> Download full catalogues</h6>
-      
+
     </div>
           <a href="<?= base_url; ?>en/pdf/Cat21-2-Blue-Ink-Full-EN-20191018.pdf" target="_blank"><img src="<?= base_url; ?>img/Cat21-2 Blue Ink C1 EN 20191008.jpg" class="img-thumbnail mb-3"></a>
          <a href="<?= base_url; ?>en/pdf/Cat25-2-Blue-Ink-Full-EN-20191018.pdf" target="_blank"> <img src="<?= base_url; ?>img/Cat25-2 Blue Ink C1 EN 20191009.jpg" class="img-thumbnail mb-3"></a>
@@ -158,7 +167,7 @@
       </div>
 
     </div>
-  </div> 
+  </div>
   <!-- <div class="container-fluid py-5" style="background: url(../img/concrete_seamless.png);">
     <div class="container">
       <div class="text-center mb-5">
@@ -167,38 +176,38 @@
     </div>
 
     <div class="row order-icons text-center">
-      <div class="offset-md-1 col-md-2"> 
+      <div class="offset-md-1 col-md-2">
         <div class="icon-or">
           <img src="<?= base_url; ?>img/package.png"><br>
-          
+
         </div>
         <p>Size (dimensions)</p>
       </div>
-       <div class="col-md-2"> 
+       <div class="col-md-2">
          <div class="icon-or">
         <img src="<?= base_url; ?>img/high-voltage.png"><br>
-       
+
       </div>
        <p>Voltage</p>
       </div>
-       <div class="col-md-2"> 
+       <div class="col-md-2">
          <div class="icon-or">
         <img src="<?= base_url; ?>img/hot.png"><br>
-         
+
        </div>
        <p>Operating temperature</p>
       </div>
-       <div class="col-md-2"> 
+       <div class="col-md-2">
          <div class="icon-or">
         <img src="<?= base_url; ?>img/tools.png"><br>
-         
+
        </div>
 <p>Element type, if you have a preference</p>
       </div>
-       <div class="col-md-2"> 
+       <div class="col-md-2">
          <div class="icon-or">
         <img src="<?= base_url; ?>img/flash.png"><br>
-        
+
        </div>
         <p>Wattage/watt density</p>
       </div>
@@ -216,7 +225,7 @@
     </div>
       <div class="row">
         <div class="col-md-6">
-          <div class="contact-info mb-3" style="background: #fff;">
+          <div id="contact-info" class="contact-info mb-3 js-e3article" style="background: #fff;">
                         <p><b> Blue Ink Company Limited </b></p>
                         <p>Morning Dew Building, 41-1 Soi Sukhumvit46, Sukhumvit Rd. Phrakanong Klongtoey Bangkok 10110 Thailand</p>
                         <p><a href="#"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp; +66(0)27135196</a></p>
@@ -232,7 +241,7 @@
   </div>
 
 
-      
+
 		<?php include('footer.php'); ?>
     </body>
 </html>

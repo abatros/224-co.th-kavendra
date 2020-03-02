@@ -38,14 +38,14 @@
 		   <div class="d-none d-md-block">
 			  <div class="row logo-sec ">
 				 <div class="col-md-6 pt-3 text-white">
-				 <a href="<?= base_url; ?>en/home.html"> 	<img src="<?= base_url; ?>/img/main-logo.png" width="100%"> </a>
+				 <a href="<?= base_url; ?>en/home.html"> 	<img src="<?= base_url; ?>img/main-logo.png" width="100%"> </a>
 					<!-- <h1>Blue Ink co.ltd bangkok</h1>
 					<p class="tag-lin"> Flexible Heaters and Controls</p> -->
 				 </div>
 				 <div class="col-md-2">
 				 </div>
 				 <div class="col-md-4 text-center pt-2">
-					<img src="<?= base_url; ?>img/ultiheat.jpg" class="right-logo"><br>
+					<img src="<?= base_url; ?>img/ultiheat.jpg" class="right-logo js-e3article-hover"><br>
 					<small class="text-white">Controls, Components, Heating equipments</small>
 				 </div>
 			  </div>
@@ -62,25 +62,25 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		   <ul class="navbar-nav m-auto text-center">
 		   	 <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/home.html">Home</a>
+				 <a class="nav-link " href="<?= base_url; ?>en/home">Home</a>  <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item ">
-				 <a class="nav-link " href="<?= base_url; ?>en/products.html">Blue Ink Products</a>
+				 <a class="nav-link " href="<?= base_url; ?>en/products">Blue Ink Products</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link" href="<?= base_url; ?>en/product-information.html">Comparison of flexible heaters technologies</a>
+				 <a class="nav-link" href="<?= base_url; ?>en/product-information">Comparison of flexible heaters technologies</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/orders-handling.html">How to Order</a>
+				 <a class="nav-link " href="<?= base_url; ?>en/orders-handling">How to Order</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/new-products.html">Ultimheat New Products</a>
+				 <a class="nav-link " href="<?= base_url; ?>en/new-products">Ultimheat New Products</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/warranty.html">Warranty</a>
+				 <a class="nav-link " href="<?= base_url; ?>en/warranty">Warranty</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/contact.html">Contact Us & Location</a>
+				 <a class="nav-link " href="<?= base_url; ?>en/contact">Contact Us & Location</a> <!--dkz: removed .html-->
 			  </li>
 		   </ul>
 		</div>
