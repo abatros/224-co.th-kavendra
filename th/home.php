@@ -91,15 +91,27 @@
 		  <div id="upcoming" class="events-rcnt   js-e3article">
             <h2 class="text-center mb-3">Upcoming events</h2>
             <div class="row">
-              <div class="col-md-12 mb-3">
-                <img src="<?= base_url; ?>img/event-1st.jpg" class="w-75">
-                <p class="pt-1">Mostra Convegno 2020 17-20 March - Milano-Italy</p>
-              </div>
-              <div class="col-md-12 mb-3">
-                <img src="<?= base_url; ?>img/event-2nd.jpg" class="w-50">
-                <p class="pt-1">Aquatherm 2020 11-14 February - Moscow Russia</p>
-              </div>
-            </div>
+
+
+<!-- Shanghai -->
+<div class="col-md-12 mb-3">
+<img src="../img/image_2020_01_13T03_41_05_476Z.png" class="w-50">
+<p class="pt-1">The 10th Heat Pumps exhibition, 15-17 March. Shanghai - China</p>
+<p class="pt-1" style="color:red;">
+Shanghai exhibition delayed because of Corona virus, new dates unknown.
+</p>
+</div>
+
+
+<!-- Milano -->
+<div class="col-md-12 mb-3">
+<img src="../img/event-1st.jpg" class="w-75">
+<p class="pt-1">Mostra Convegno 2020 17-20 March - Milano-Italy</p>
+<p class="pt-1" style="color:red;">Postponed to September 8-11, 2020 because of epidemic situation.</p>
+</div>
+
+
+				</div>
           </div>
         </div>
       </div>

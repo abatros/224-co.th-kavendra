@@ -13,3 +13,8 @@ define("base_url", "https://ultimheat.co.th/");
 <script src="<?= base_url; ?>js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="/css/dkz.css">
+<script src="/js/dkz-double-click.js"></script>
+~
+~
