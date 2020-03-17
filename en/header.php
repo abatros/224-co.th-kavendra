@@ -62,25 +62,25 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		   <ul class="navbar-nav m-auto text-center">
 		   	 <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/home">Home</a>  <!--dkz: removed .html-->
+				 <a class="nav-link " href="<?= base_url; ?>en/home.html">Home</a>  <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item ">
-				 <a class="nav-link " href="<?= base_url; ?>en/products">Blue Ink Products</a> <!--dkz: removed .html-->
+				 <a class="nav-link " href="<?= base_url; ?>en/products.html">Blue Ink Products</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link" href="<?= base_url; ?>en/product-information">Comparison of flexible heaters technologies</a> <!--dkz: removed .html-->
+				 <a class="nav-link" href="<?= base_url; ?>en/product-information.html">Comparison of flexible heaters technologies</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/orders-handling">How to Order</a> <!--dkz: removed .html-->
+				 <a class="nav-link " href="<?= base_url; ?>en/orders-handling.html">How to Order</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/new-products">Ultimheat New Products</a> <!--dkz: removed .html-->
+				 <a class="nav-link " href="<?= base_url; ?>en/new-products.html">Ultimheat New Products</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/warranty">Warranty</a> <!--dkz: removed .html-->
+				 <a class="nav-link " href="<?= base_url; ?>en/warranty.html">Warranty</a> <!--dkz: removed .html-->
 			  </li>
 			  <li class="nav-item">
-				 <a class="nav-link " href="<?= base_url; ?>en/contact">Contact Us & Location</a> <!--dkz: removed .html-->
+				 <a class="nav-link " href="<?= base_url; ?>en/contact.html">Contact Us & Location</a> <!--dkz: removed .html-->
 			  </li>
 		   </ul>
 		</div>

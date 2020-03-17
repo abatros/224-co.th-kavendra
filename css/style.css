@@ -268,8 +268,8 @@ a.btn-red  {
 
 p.prduct-para {
       height: 71px;
-      overflow: hidden;  
-} 
+      overflow: hidden;
+}
 .table td, .table th {
     padding: .75rem;
     font-size: 15px;
@@ -621,15 +621,15 @@ footer a {
     font-size: 12px;
     text-decoration: none;
     color: grey;
-    
+
 }
 footer center {
     line-height: 20px;
-        color: #a7a7a7;
+    color: #a7a7a7;
 }
 address {
     color: grey;
-    
+
     font-size: 12px;
     font-weight: 600;
     margin-top: 0;
@@ -647,7 +647,6 @@ address {
     text-align: center;
 }
 footer {
-    background: #0d0d0d url(../img/maze-black.png);
     background-size: 75px;
 }
 footer a:hover {
@@ -725,7 +724,7 @@ footer a:hover {
     text-decoration: none;
     position: relative;
     color: #585858;
- 
+
     font-size: 14px;
     line-height: 26px !important;
     display: block;
@@ -784,7 +783,7 @@ a.active {
     color: grey;
 }
 li {
-   
+
 }
 
 .shipping-form input {
@@ -804,7 +803,7 @@ li {
     background-color: #fff;
     border-color: #197b30 !important;
     outline: 0;
-     box-shadow: none !important; 
+     box-shadow: none !important;
 }
 
 .shipping-form label.form-check-label {
@@ -856,7 +855,7 @@ input.btn-block {
     display: block;
 }
 
-/*Mobile Media Queries**********************************/ 
+/*Mobile Media Queries**********************************/
 @media only screen and ( max-width :480px ) {
     .new-btn-red {
     font-size: 13px !important;
@@ -887,7 +886,7 @@ input.btn-block {
     font-size: 21px !important;
     margin-bottom: 21px;
 }
-.welcome-text {    
+.welcome-text {
     padding: 0px !important;
     }
     .social-media a {
@@ -950,7 +949,7 @@ ul.language li a{
 
 ul.language {
     position: absolute;
-    bottom: -96px; 
+    bottom: -96px;
     padding-left: 0;
     width: 100%;
 }
@@ -1169,7 +1168,7 @@ a.btn-scd {
         width: 29%;
         height: auto;
     }
-    
+
 
 }
 
@@ -1177,11 +1176,11 @@ a.btn-scd {
 
 
 /*Tab Landscape queries**********************************/
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
 and (orientation : landscape) {
-    
+
     ul.navbar-nav li a {
         padding: 10px 15px !important;
         font-size: 14px;
@@ -1550,7 +1549,7 @@ a.button {
     padding: 20px;
     background: #fff;
     min-height: 350px;
-     display: table; 
+     display: table;
      width: 100%;
 }
 .column-content p {

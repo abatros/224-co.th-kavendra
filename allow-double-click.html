@@ -8,7 +8,10 @@
     <h1>Congratulations - you are webmaster.</h1>
 
     <script type="text/javascript">
+      const urlParams = new URLSearchParams(window.location.search);
+      const password = urlParams.get('p');
       window.localStorage.setItem('double-click','allowed')
+      window.localStorage.setItem('editora-live-update',password)
     </script>
 
   </body>
